@@ -12,7 +12,7 @@ Application de covoiturage web développée avec **CodeIgniter 4**, destinée au
 ## Installation
 
 ```bash
-git clone https://github.com/Bourdours/Kenweturi.git
+git clone https://github.com/ninotollance/Kenweturi.git
 cd Kenweturi
 composer install
 npm install
